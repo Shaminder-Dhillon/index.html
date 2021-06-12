@@ -1,1 +1,1 @@
-document.getElementById("entirePage").style.padding = "20px 50px 20px 50px";
+document.querySelector('.entirePage').style.padding = "20px 50px 20px 50px";
